@@ -2,4 +2,4 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-React N
+noughts and crosses made with react following intro to react tutorial
